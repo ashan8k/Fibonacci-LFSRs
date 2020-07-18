@@ -7,3 +7,9 @@ Implementation block diagram
 
 [More details regarding Fibonacci-LFSRs](https://en.wikipedia.org/wiki/Linear-feedback_shift_register#Fibonacci_LFSRs "Wikipedia: Fibonacci LFSRs")
 
+## Files
+
+1. Verilog file `lfsr.v`
+2. Testbench `tb_lfsr.v`
+3. Icarus Verilog run file `runme`
+4. vcd file `wave.vcd`
