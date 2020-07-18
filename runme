@@ -1,0 +1,2 @@
+iverilog -o out tb_lfsr.v lfsr.v
+vvp out
